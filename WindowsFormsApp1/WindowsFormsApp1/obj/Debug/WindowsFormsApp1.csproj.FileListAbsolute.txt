@@ -1,0 +1,105 @@
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.Lienhe.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.HosoSv.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.HosoSvDemo.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.F_DoiMK.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.LopSV.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.TKB.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.BDHP.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.BDMoi.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.CTDTSV.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.CTDTTT.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.HocPhi.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.DSLopMo.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.DKHTSV.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.DichvuGV.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.DichvuSV.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.DSLopGD.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.DSLopPT.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.HosoGv.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.NhapDiem.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.TKB.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.DichvuAD.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.F_Dangnhap.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ADChildForm.AddSV.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ADChildForm.ADSelectSV.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ADChildForm.AddSV.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ADChildForm.ADSelectSV.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.DichvuAD.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.DichvuGV.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.DichvuSV.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.DSLopGD.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.DSLopPT.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.HosoGv.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.BDHP.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.BDMoi.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.CTDTSV.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.CTDTTT.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.DKHTSV.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.DSLopMo.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.HocPhi.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.TKB.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.LopSV.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.F_DoiMK.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.NhapDiem.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.TKB.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.HosoSvDemo.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.Lienhe.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.HosoSv.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.F_Dangnhap.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\OneDrive\デスクトップ\14_NguyenNgocAnhThu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ADChildForm.AddSV.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ADChildForm.ADSelectSV.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.DichvuAD.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.DichvuGV.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.DichvuSV.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.DSLopGD.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.DSLopPT.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.HosoGv.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.BDHP.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.BDMoi.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.CTDTSV.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.CTDTTT.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.DKHTSV.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.DSLopMo.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.HocPhi.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.TKB.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.LopSV.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.F_DoiMK.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.NhapDiem.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GVChildForm.TKB.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.HosoSvDemo.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildForm.Lienhe.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChildrenForm.HosoSv.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.F_Dangnhap.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\Downloads\2023\PROJECT SQL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
